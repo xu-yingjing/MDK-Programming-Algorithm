@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>APM32F40X</Define>
               <Undefine></Undefine>
-              <IncludePath>..\..\User;..\..\Drivers\CMSIS\Include;..\..\Drivers\APM32F4xx_StdPeriphDriver\inc;..\..\Drivers\Device\Geehy\APM32F4xx\Include;..\..\Drivers\BSP\inc;..\..\Middlewares;..\..\Middlewares\FreeRTOS\include;..\..\Middlewares\FreeRTOS\portable\RVDS\ARM_CM4F</IncludePath>
+              <IncludePath>..\..\User;..\..\Drivers\CMSIS\Include;..\..\Drivers\APM32F4xx_StdPeriphDriver\inc;..\..\Drivers\Device\Geehy\APM32F4xx\Include;..\..\Drivers\BSP\inc</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
