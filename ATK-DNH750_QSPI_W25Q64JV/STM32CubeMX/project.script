@@ -1,0 +1,7 @@
+load STM32H750XBHx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\Workspeace\GitLab\ATK-DNH750\MDK Programming Algorithm\ATK-DNH750_QSPI_W25Q64JV\STM32CubeMX\" 
+set tpl_path "C:\Users\ALIENTEK\AppData\Local\Arm\Packs\Keil\STM32H7xx_DFP\3.1.0\MDK\CubeMX\SC" 
+set dest_path "D:\Workspeace\GitLab\ATK-DNH750\MDK Programming Algorithm\ATK-DNH750_QSPI_W25Q64JV" 
+SetCopyLibrary  "copy as reference"
